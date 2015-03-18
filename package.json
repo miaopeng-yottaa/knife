@@ -1,0 +1,16 @@
+{
+  "name": "knife",
+  "version": "0.0.0",
+  "description": "QA Tools",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Peng Miao",
+  "license": "ISC",
+  "dependencies": {
+    "gulp": "^3.8.11",
+    "gulp-data": "^1.2.0",
+    "gulp-swig": "^0.7.4"
+  }
+}

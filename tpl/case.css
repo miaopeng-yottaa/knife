@@ -1,0 +1,5 @@
+.case-before { color: red; }
+.case-{{ name }} {
+  {{ style }}
+}
+.case-after { color: red; }
