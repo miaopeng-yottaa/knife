@@ -1,4 +1,5 @@
-I
+## QA Task Runner
+
 ### Setup
 ```
 $ npm install
@@ -6,7 +7,8 @@ $ npm install
 
 ### Usage
 
-#### Build Case Page
+Build case page:
+
 ```
 $ gulp page --name casename --style "color: green;"
 ```
